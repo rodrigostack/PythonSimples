@@ -10,3 +10,6 @@ print(type(estadoCivil))
 print(type(idade))
 print(type(altura))
 
+#Trabalhando com concatenação
+
+print("Meu nome é " + name + " eu sou " + estadoCivil)
